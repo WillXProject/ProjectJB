@@ -1,0 +1,9 @@
+Kernel
+
+Available for: iPhone 6s and later, iPad Pro (all models), iPad Air 2 and later, iPad 5th generation and later, iPad mini 4 and later, and iPod touch (7th generation)
+
+Impact: A malicious application may be able to execute arbitrary code with kernel privileges
+
+Description: A race condition was addressed with improved locking.
+
+CVE-2021-30857: Zweig of Kunlun Lab
